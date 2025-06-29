@@ -1,4 +1,4 @@
-# ⚡ GLSL Image Distortion
+# 🌊 GLSL Image Distortion
 
 🎥 A dynamic image distortion effect using GLSL shaders and Three.js. Applies flowing wave-like animations to textures in real-time using custom vertex and fragment shaders.
 
